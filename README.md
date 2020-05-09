@@ -9,4 +9,5 @@
 | 05 | 0387  |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|O(n)  |O(n) |Easy| Create an empty array for 256 characters, directly increment the count based on ASCII |
 | 06 | 0169  |[Majority Element](https://leetcode.com/problems/majority-element/solution/)|O(n)  |O(n) |Easy| Hash map |
 | 07 | 0993  |[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|O(n)  |O(n) |Easy| Use linkedlist to do level-wise tracking, 2 hash maps for storing parent and level|
+| 08 | 1232  |[Check if it a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|O(n)  |O(1) |Easy| Slope = (y2-y1)/(x2-x1). If slope(line between point 1 and 2) is equal to slope(line between point 1 and n), points are in straight line. |
 
