@@ -11,4 +11,5 @@
 | 07 | 0993  |[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|O(n)  |O(n) |Easy| Use linkedlist to do level-wise tracking, 2 hash maps for storing parent and level|
 | 08 | 1232  |[Check if it a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)|O(n)  |O(1) |Easy| Slope = (y2-y1)/(x2-x1). If slope(line between point 1 and 2) is equal to slope(line between point 1 and n), points are in straight line. |
 | 09 | 0367  |[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|O(n)  |O(1) |Easy| Binary search, For given number n, the squre root of n will always be between n and n/2 |
+| 10 | 0997  |[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|O(n)  |O(n) |Easy| Use hash set for people who trust and hash map to keep trust votes count|
 
