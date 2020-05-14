@@ -14,4 +14,5 @@
 | 10 | 0997  |[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|O(n)  |O(n) |Easy| Use hash set for people who trust and hash map to keep trust votes count|
 | 11 | 0733  |[Flood Fill](https://leetcode.com/problems/flood-fill/)|O(n)  |O(n) |Easy| Depth first search approach, similar to number of islands problem|
 | 12 | 0540  |[Single Element in Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|O(logn)  |O(1) |Medium| First occurrence of every element is found at even index. Tweak start and end by checking if mid is even or odd|
+| 13 | 0402  |[Remove K Digits](https://leetcode.com/problems/remove-k-digits/)|O(n)  |O(n) |Medium| Use stack to traverse the number from left to right|
 
