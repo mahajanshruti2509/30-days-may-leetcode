@@ -21,4 +21,5 @@
 | 17 | 0438  |[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|O(n)  |O(n) |Medium|Sliding window approach|
 | 18 | 0567  |[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|O(n)  |O(1) |Medium|Sliding window approach|
 | 19 | 0901  |[Online Stock Spanner](https://leetcode.com/problems/online-stock-span/)|O(n)  |O(n) |Medium| Use 2 hash maps to track stock prices and stock span|
+| 20 | 0230  |[Kth Smallest Element](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|O(H+k)  |O(H+k) |Medium| Use the property of BST : inorder traversal of BST is an array sorted in the ascending order.|
 
