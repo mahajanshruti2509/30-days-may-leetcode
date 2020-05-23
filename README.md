@@ -22,4 +22,5 @@
 | 18 | 0567  |[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|O(n)  |O(1) |Medium|Sliding window approach|
 | 19 | 0901  |[Online Stock Spanner](https://leetcode.com/problems/online-stock-span/)|O(n)  |O(n) |Medium| Use 2 hash maps to track stock prices and stock span|
 | 20 | 0230  |[Kth Smallest Element](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|O(H+k)  |O(H+k) |Medium| Use the property of BST : inorder traversal of BST is an array sorted in the ascending order.|
+| 22 | 0451  |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|O(n)  |O(n) |Medium| Use hash map to keep frequency count and priority queue as max heap|
 
